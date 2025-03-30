@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @realMaWe
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning html.
-- 💞 I'm real and only MaWe.
+- 👋 Hi, I’m @realMaWe 
+- 🌱 I work in html, javascript, css, python
+- 🔱 "A winner never stops trying."
 - 📫 How to reach me mail: markhtp0@gmail.com
+
+
 
 <!---
 realMaWe/realMaWe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
